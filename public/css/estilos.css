@@ -1,0 +1,41 @@
+body {
+  background-color: #ABEBC6 ;
+ margin: 0
+}
+
+body, input, a {
+  color: #707B7C ;
+ font-family: sans-serif
+}
+
+header {
+ text-align: center
+}
+
+main {
+ max-width: 600px;
+ margin: 0 auto;
+}
+
+p {
+ margin: 1em
+}
+
+label {
+ display: block;
+ font-size: small;
+ font-weight: bold
+}
+
+label>* {
+ display: block;
+ width: 100%
+}
+.tamaño{
+  width: 250px;
+height: 150px;
+display:block;
+  margin:auto;
+  max-width: 100%;
+  max-height: 100%;
+}
